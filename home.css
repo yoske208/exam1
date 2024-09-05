@@ -1,0 +1,85 @@
+body{
+    background-color: gray;
+
+}
+.nav-bar{
+    background-color: black;
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+    width: 100%;
+    /* position: fixed; */
+    padding: 5px;
+    /* margin: 2px; */
+    
+}
+#l{
+    padding: 10px;
+    text-decoration-line:none ;
+
+
+}
+.nav2{
+
+    background-color: green;
+    text-align: center;
+    padding-top: 2px;
+    align-items: center;
+    padding: 2px;
+    
+    
+}
+.place{
+    height: 10px;
+    width: 100%;
+}
+.wel{
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+}
+.cards{
+    display: flex;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+    justify-content: center;
+    flex-direction: column;
+    border: solid red 5px;
+    
+    
+
+    
+    
+}
+.allcards{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.card1{
+
+    justify-content: center;
+    background-color:#E6E6E6;
+    border-radius: 15px;
+    width: 750px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+/* .card1:hover{
+    
+} */
+
+/* #side{
+
+} */
+
+.end{
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
